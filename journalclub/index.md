@@ -21,7 +21,7 @@ Journal club meetings currently take place on Wednesdays at 12:00 pm in seminar 
 # 2018 Spring Schedule
 
 - January 29: Jin Wang
-- February 5: To Be Determined
+- February 5: Memming Park
 - February 12: Piotr Sokol
 - February 19: Yuan Zhao
 - February 26: Elliot Crooks
